@@ -2,7 +2,7 @@
 
 Este repositorio contiene el análisis realizado durante el Sprint 7 del caso ConnectaTel.
 
-El dataset `plans`, `users_latam` y `usage` incluyen 4.000 registros de usuarios con valores faltantes, sentinels, outliers y problemas de calidad diseñados para simular datos reales de la empresa de telecomunicaciones ConnectaTel. Los datasets incluyen los planes actuales (precio, minutos incluidos, GB incluidos, costo por extra), información de clientes: edad, ciudad, fecha de registro, plan contratado y el detalle de uso real: llamadas (duración) y mensajes (longitud), respectivamente. :contentReference[oaicite:2]{index=2}
+Los datasets `plans`, `users_latam` y `usage` incluyen 4.000 registros de usuarios con valores faltantes, sentinels, outliers y problemas de calidad diseñados para simular datos reales de la empresa de telecomunicaciones ConnectaTel. Los datasets incluyen los planes actuales (precio, minutos incluidos, GB incluidos, costo por extra), información de clientes: edad, ciudad, fecha de registro, plan contratado y el detalle de uso real: llamadas (duración) y mensajes (longitud), respectivamente. :contentReference[oaicite:2]{index=2}
 
 ## 📂 Contenido del repositorio
 
